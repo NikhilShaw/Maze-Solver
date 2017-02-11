@@ -15,7 +15,7 @@ Output will be path from starting point to end point(represented by 2)
 Brute force approach. 
 Recursive function.
 
-# Updates
+# Updates (In progress)
 Able to solve maze in images using image processing in JAVA
 
 
