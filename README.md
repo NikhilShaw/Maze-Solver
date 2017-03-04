@@ -12,6 +12,7 @@ Input starting point (rows, coloumn) [in range 0-4 i ncase of this example, sinc
 Output will be path from starting point to end point(represented by 2)
 
 # Algorithm
+Backtracking algorithm.
 Brute force approach. 
 Recursive function.
 
